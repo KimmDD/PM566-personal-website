@@ -1,0 +1,54 @@
+---
+title: "My Website"
+author: "Mengdi Chai"
+output: 
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
+---
+
+<hr>
+
+## INTRODUCTION
+
+<p> Hi, my name is Mengdi Chai, and I am a senior student majoring in Quantitative Biology at USC. In my spare time, I love to listen to Kpop music. In addition, I am an animal-lover. I have a hamster in my dorm and he is super cute. </p>
+
+<hr>
+## RESEARCH EXPERIENCE
+
+<strong> Identifying Tiger’s Pigmentation Gene TRIM8 </strong>
+<ul>
+<li> Applied Tidyverse in R to extract targeted IBD and ROH from 8000+ data of the tiger’s genome and utilized Bedtools intersect and coverage to identify potential loci involved in coat color and recombination map </li>
+<li> Created the tiger’s chromosomes map in Integrative Genomic Viewer (IGV) and found that TRIM8, which has previously been associated with grey color in cattle, is potentially involved in tiger stripe pigmentation </li>
+<li> Presentation: Women in Science and Engineering (WiSE) Undergraduate Research Mini Symposium (August 2022), findings that support potential loci regions related to tiger coat color. Further results will be presented at the 2023 Undergraduate Symposium for Scholarly and Creative Work </li>
+</ul>
+
+<p> </p>
+<strong> Data Mining Study on Cancer-related Gene Mutation Impacts of Smoking </strong>
+<ul>
+<li> Analyzed 545 data from The Cancer Genome Atlas (TCGA) to explore survival rates and gene mutations of lung cancer patients based on sex and tobacco smoking history and generated a 20-page research paper on this topic </li>
+<li> In R: employed DESeq2 to perform various gene expressions, used maftools to draw Lollipop plot and build Oncoplot to analyze mutated genes, and found that mutations in GATA3 are present only in smokers; created Kaplan-Meier Plot to show survival probability between sexes with tobacco smoking history by using survival&survminer </li>
+<li> In Python: utilized Seaborn to construct heatmaps to analyze CYP1A1 and GSTM1gene expression and created scatterplots of different gene expression levels among lung cancer patients via MatPlotLib </li>
+<li> Presentation: Lawrence J. Ellison Institute for Transformative Medicine (May 2022), presented on the impact of smoking on gene mutation rate between biological sexes </li>
+</ul>
+
+<hr>
+## CAMPUS LEADERSHIP & VOLUNTEER EXPERIENCE
+
+<strong>International Family Union NGO Association </strong>
+<p> President </p>
+<ul>
+<li>Managed a group of ten members and organized College Carnival events with 100+ participants and 15+ speakers in high schools of China, Canada, and the USA </li>
+<li> Led large-scale activities, held virtual Psychology Seminars and Career Panel with an audience of 150+ </li>
+</ul>
+<p></p>
+
+<strong>Information Technology Program </strong>
+<p> Teaching Assistant </p>
+<ul>
+<li> Held office hours ~4 hours per week to answer 100+ students’ questions and graded classes’ assignments and labs </li>
+</ul>
+
+<hr>
+## SKILLS
+<p> Programming Language: C++, R (dplyr, ggplot2, tidyverse), Python (Pandas, NumPy, Seaborn), JavaScript, PHP, HTML </p>
